@@ -1,7 +1,4 @@
 <?php
-// ============================================================
-// Game Detail Page + Review submission
-// ============================================================
 require_once 'includes/db-connect.php';
 require_once 'includes/functions.php';
 

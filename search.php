@@ -1,7 +1,4 @@
 <?php
-// ============================================================
-// Search & Filter Page
-// ============================================================
 require_once 'includes/db-connect.php';
 require_once 'includes/functions.php';
 

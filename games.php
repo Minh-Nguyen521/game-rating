@@ -1,7 +1,4 @@
 <?php
-// ============================================================
-// Browse / Filter Page with Pagination
-// ============================================================
 require_once 'includes/db-connect.php';
 require_once 'includes/functions.php';
 
